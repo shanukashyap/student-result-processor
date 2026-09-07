@@ -1,0 +1,6 @@
+2026-09-07 08:14:50,786 - INFO - Successfully processed student: Rahul
+2026-09-07 08:16:02,389 - ERROR - Invalid marks for Priya: Invalid mark: 105.0. Marks must be between 0 and 100.
+2026-09-07 08:16:14,979 - ERROR - Non-numeric mark for student priti, Subject 1: abc
+2026-09-07 08:17:15,808 - ERROR - Invalid number of students: invalid literal for int() with base 10: 'abc'
+2026-09-07 08:17:35,694 - ERROR - Invalid number of students: invalid literal for int() with base 10: ''
+2026-09-07 08:18:45,137 - ERROR - Invalid number of students: invalid literal for int() with base 10: ''
