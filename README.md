@@ -314,6 +314,4 @@ The most important sections are:
 11. **Fault Tolerance**
 12. **Python Concepts**
 13. **Author**
-14. **GitHub + YouTube links**
 
-This will also make your GitHub repository look **professional and complete**.
